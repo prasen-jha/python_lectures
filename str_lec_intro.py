@@ -162,12 +162,3 @@ print(user_input.center(len(user_input),'@'))
 print(user_input.isupper())
 print(user_input.split())
 print(user_input.join(['Hello !']))
-
-
-
-
-
-
-
-
-
